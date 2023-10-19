@@ -1,0 +1,257 @@
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.exe
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.deps.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.pdb
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.WatchListAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WatchListAPI.props
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WatchListAPI.props
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WatchListAPI.props
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\scopedcss\bundle\WatchListAPI.styles.css
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CopyComplete
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\refint\WatchListAPI.dll
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.pdb
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.genruntimeconfig.cache
+C:\Users\VMAdmin\Desktop\Net Core\Final\Microservice_Mongo\WatchListAPI\WatchListAPI\obj\Debug\net6.0\ref\WatchListAPI.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.exe
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.deps.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.runtimeconfig.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.pdb
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.AssemblyReference.cache
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfoInputs.cache
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfo.cs
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CoreCompileInputs.cache
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.WatchListAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WatchListAPI.props
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WatchListAPI.props
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WatchListAPI.props
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\scopedcss\bundle\WatchListAPI.styles.css
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CopyComplete
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\refint\WatchListAPI.dll
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.pdb
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.genruntimeconfig.cache
+C:\Users\nanda\Downloads\WatchListAPI\WatchListAPI\WatchListAPI\obj\Debug\net6.0\ref\WatchListAPI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.exe
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.deps.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.runtimeconfig.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\WatchListAPI.pdb
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\DnsClient.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\SharpCompress.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Snappier.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\ZstdSharp.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.AssemblyReference.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfoInputs.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfo.cs
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CoreCompileInputs.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.WatchListAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WatchListAPI.props
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WatchListAPI.props
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WatchListAPI.props
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\scopedcss\bundle\WatchListAPI.styles.css
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CopyComplete
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\refint\WatchListAPI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.pdb
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\WatchListAPI.genruntimeconfig.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\WatchListAPI\WatchListAPI\obj\Debug\net6.0\ref\WatchListAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\appsettings.Development.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\appsettings.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\WatchListAPI.exe
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\WatchListAPI.deps.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\WatchListAPI.runtimeconfig.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\WatchListAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\WatchListAPI.pdb
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\DnsClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\SharpCompress.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Snappier.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\ZstdSharp.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.AssemblyReference.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfoInputs.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.AssemblyInfo.cs
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CoreCompileInputs.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.WatchListAPI.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WatchListAPI.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WatchListAPI.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WatchListAPI.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\scopedcss\bundle\WatchListAPI.styles.css
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.csproj.CopyComplete
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\refint\WatchListAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.pdb
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\WatchListAPI.genruntimeconfig.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\obj\Debug\net6.0\ref\WatchListAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\MailKit.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\MimeKit.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Formats.Asn1.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Azure.Core.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Azure.Identity.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\FluentValidation.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\JWT.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\Ocelot.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Text.Json.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\OcelotGateway.deps.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\OcelotGateway.runtimeconfig.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\ocelot.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\OcelotGateway.exe
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\OcelotGateway.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\WatchListAPI\bin\Debug\net6.0\OcelotGateway.pdb

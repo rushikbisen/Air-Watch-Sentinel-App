@@ -1,0 +1,195 @@
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.Development.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Azure.Core.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Azure.Identity.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Humanizer.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\JWT.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.CodeDom.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Text.Json.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.AssemblyReference.cache
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfoInputs.cache
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfo.cs
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\scopedcss\bundle\AngularAuthAPI.styles.css
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CopyComplete
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\refint\AngularAuthAPI.dll
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.pdb
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.genruntimeconfig.cache
+Z:\Pollution Check\Angular_Auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\ref\AngularAuthAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\appsettings.Development.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\appsettings.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Azure.Core.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Azure.Identity.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Humanizer.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\JWT.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.CodeDom.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Text.Json.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.AssemblyReference.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfoInputs.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfo.cs
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\scopedcss\bundle\AngularAuthAPI.styles.css
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CopyComplete
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\refint\AngularAuthAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.pdb
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.genruntimeconfig.cache
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\obj\Debug\net6.0\ref\AngularAuthAPI.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\FluentValidation.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\Ocelot.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\MailKit.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\MimeKit.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Formats.Asn1.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\Pollution Check\POLLUTION AIR INDEX\POLLUTION INDEX API\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

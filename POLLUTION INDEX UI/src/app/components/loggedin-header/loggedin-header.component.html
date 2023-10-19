@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container">
+    <a class="navbar-brand mr-auto" routerLink="/dashboard">
+      <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/air-quality-8422788-6627559.png" alt="AWS Logo" class="logo"> &nbsp; &nbsp;
+      <span class="brand-text">Air Watch Sentinel</span>
+    </a>
+    
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/dashboard">Search Any City</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/second-api">Get Your Location Info</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/watchlist">Watch List</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/edit-profile">Edit Profile</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/login">Log Out</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>

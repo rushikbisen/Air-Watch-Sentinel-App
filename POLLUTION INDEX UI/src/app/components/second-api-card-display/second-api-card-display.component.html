@@ -1,0 +1,17 @@
+
+<mat-card [style.background-color]="getBackgroundColor()" class="search-card">
+    <mat-card-header>
+      <mat-card-title class="title">{{ result.city.name }}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <p class="aqi-value">Air Quality Index (AQI): {{ result.aqi }}</p>
+      <p class="aqi-value">City Location : {{ result.city.geo }}</p>
+      <p class="aqi-value">Time : {{ result.time.s }}</p>
+      <p class="aqi-value">Carbon : {{ result.iaqi.co.v }}</p>
+      <p class="aqi-value">Dew : {{ result.iaqi.dew.v }}</p>
+      <p class="aqi-value">Humidity : {{ result.iaqi.h.v }}%</p>
+      <h6><a href="{{result.city.url}}">{{result.city.url}}</a></h6>
+      <p class="air-quality-text">{{ getAirQualityText() }}</p>
+      <!-- Add more information here if needed -->
+    </mat-card-content>
+  </mat-card>

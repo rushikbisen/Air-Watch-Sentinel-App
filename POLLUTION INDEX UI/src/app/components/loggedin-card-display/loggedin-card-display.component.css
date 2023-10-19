@@ -1,0 +1,103 @@
+/* Styling the search bar */
+input[type="text"] {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    color: #333;
+    font-size: 16px;
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  /* Styling the search button */
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  h1{
+  /* background-color: black; */
+  color: rgb(201, 228, 80);
+  }
+  button:hover {
+    background-color: rgb(201, 228, 80);
+  }
+  /* .home-container{
+  background-color: blueviolet;
+  } */
+  /* .home{
+    background-color: darkblue;
+  } */
+  .home img{
+    width: 100%;
+    height: 600px;
+    object-position: center;
+    object-fit: cover;
+  }
+  img{
+    width: 100%;
+    height: 600px;
+    object-position: center;
+    object-fit:fill;
+  }
+  
+  .homecontent{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+  }
+  .homecontent{
+    color: #ffffff;
+    font-size: 30px;
+  }
+  
+  .homecontent a{
+    margin-top: 10px;
+  }
+  @media screen and(max-width:600px) 
+   {
+       .home img{
+           
+           height: 700px;
+           
+        }
+       .homecontent h1{
+         
+          font-size: 40px;
+       }
+   }
+   /* your-component.styles.css */
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px; /* Adjust the font size as needed */
+  font-weight: bold; /* Add bold font weight */
+  color: #9cdb27; /* Text color */
+  text-align: center; /* Center align the text */
+  margin-top: 20px; /* Add some top margin for spacing */
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+}
+
+/* Style the input when it's focused */
+.search-input:focus {
+  border-color: #007bff; /* Change the color for focus state */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Add a subtle shadow */
+}

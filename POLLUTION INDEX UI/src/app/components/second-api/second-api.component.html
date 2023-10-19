@@ -1,0 +1,14 @@
+<app-loggedin-header></app-loggedin-header>
+<section class="home">
+    <img src="../../assets/backgroundimage.webp">
+  <div class="homecontent">
+    <h1>Know Your City</h1>
+    <!-- <input   placeholder="Enter City Latitude"  type="text" [(ngModel)]="latitude" (keyup.enter)="search()">
+    
+    <input   placeholder="Enter City Longitude"  type="text" [(ngModel)]="longitude" (keyup.enter)="search()"> -->
+    <button (click)="search()" >Get</button>
+    <app-second-api-card-display *ngIf="result" [result]="result"></app-second-api-card-display>
+  </div>
+  </section>
+  
+  

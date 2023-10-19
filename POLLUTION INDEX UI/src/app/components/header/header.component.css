@@ -1,0 +1,80 @@
+/* /* Default styles for desktop */
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+.navbar-brand {
+  
+  font-family: 'Montserrat', sans-serif; /* Apply the chosen Google Font */
+  font-size: 24px; /* Adjust the font size as needed */
+  font-weight: 700; /* Use a bold font weight */
+}
+
+.navbar-collapse {
+  position: absolute;
+  right: 0;
+}
+
+.navbar {
+  background-color: rgb(201, 228, 80);
+  font-family: "Lato";
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+  font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: rgb(201, 228, 80);
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .navbar-collapse {
+    position: relative;
+    right: auto;
+  }
+
+  .navbar-collapse.collapse {
+    display: none;
+  }
+
+  .navbar-collapse.collapse.in {
+    display: block;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  .navbar-toggler {
+    background-color: #E8293F;
+  }
+
+  .navbar-toggler-icon {
+    background-color: #fff;
+  }
+}
+/* Custom CSS for font size and style */
+/* Custom CSS for brand text */
+
+
+.navbar-nav .nav-link {
+  font-size: 0px; /* Adjust the font size for navigation links */
+  text-transform: uppercase; /* Convert navigation link text to uppercase */
+  letter-spacing: 1px; /* Add letter spacing for improved readability */
+  
+}
+
+/* Style for button links on hover */
+.navbar-nav .nav-link:hover {
+  background-color: #E8293F; /* Change the background color on hover */
+  color: #fff; /* Change the text color on hover */
+}

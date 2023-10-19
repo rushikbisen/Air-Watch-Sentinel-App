@@ -1,0 +1,27 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container">
+    <a class="navbar-brand" routerLink="/home">
+      <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/air-quality-8422788-6627559.png" alt="AWS Logo" class="logo">
+      Air Watch Sentinel
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="">Home</a>
+        </li>
+  
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/login">Login</a>
+        </li>
+  
+        <li class="nav-item">
+          <a class="nav-link btn btn-light btn-lg" routerLink="/about">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>

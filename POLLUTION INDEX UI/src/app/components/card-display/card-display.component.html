@@ -1,0 +1,13 @@
+<app-header></app-header>
+<router-outlet></router-outlet>
+<section class="home">
+  <img src="../../assets/backgroundimage.webp">
+<div class="homecontent">
+  <h1>Search for City Air Quality</h1>
+  <input   placeholder="Enter City Name"  type="text" [(ngModel)]="city" (keyup.enter)="search()">
+  <button (click)="search()" >Search</button>
+  <app-search-bar *ngIf="result" [result]="result"></app-search-bar>
+</div>
+</section>
+
+
